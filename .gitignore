@@ -5,7 +5,7 @@
 
 # next.js
 /.next/
-/out/
+# /out/ - Don't ignore out folder for GitHub Pages deployment
 
 # production
 /build
